@@ -8,6 +8,7 @@ The project is experimental at the moment and APIs provided are work in
 progress and subject to changes.
 
 ![Overview](img/iot-rest-api-server.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Fiot-rest-api-server.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarloskcheung%2Fiot-rest-api-server?ref=badge_shield)
 
 ## Global Install
 
@@ -186,3 +187,7 @@ Chrome extension.
 - By default, the REST API server listens only on localhost interface, so no outside
 entity will be able to interact with it. In case if you want to expose the API to
 outside, you can use a reverse proxy server (e.g., NGNIX).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Fiot-rest-api-server.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarloskcheung%2Fiot-rest-api-server?ref=badge_large)
